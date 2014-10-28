@@ -55,6 +55,10 @@ Para contribuir:
 - Commit as alterações;
 - Solicite um Pull Request.
 
+Links importantes
+-----------
+- [Documentação do in2csv](http://csvkit.readthedocs.org/en/latest/scripts/in2csv.html)
+- [Documentação do pip](https://pip.pypa.io/en/latest/quickstart.html)
 
 
 
